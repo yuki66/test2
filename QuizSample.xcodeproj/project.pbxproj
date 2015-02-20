@@ -76,6 +76,7 @@
 		3F8894C51A84F2C300F27183 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8894C21A84F2C300F27183 /* Default-736h@3x.png */; };
 		3FFB0C171A9762CD0028378D /* 20090624_427905.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB0C161A9762CD0028378D /* 20090624_427905.jpg */; };
 		3FFB0C191A9764DE0028378D /* 20090624_427906.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB0C181A9764DE0028378D /* 20090624_427906.jpg */; };
+		3FFB0C1B1A976CD30028378D /* Carica2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB0C1A1A976CD30028378D /* Carica2.jpeg */; };
 		AF2C85671A04D3F00022A007 /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2C85661A04D3F00022A007 /* QuizViewController.m */; };
 		AF2C85731A04DFC50022A007 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF2C85721A04DFC50022A007 /* AVFoundation.framework */; };
 		AF36D1B61A00B64900467C7F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AF36D1B51A00B64900467C7F /* main.m */; };
@@ -171,6 +172,7 @@
 		3F8894C21A84F2C300F27183 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
 		3FFB0C161A9762CD0028378D /* 20090624_427905.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20090624_427905.jpg; sourceTree = "<group>"; };
 		3FFB0C181A9764DE0028378D /* 20090624_427906.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20090624_427906.jpg; sourceTree = "<group>"; };
+		3FFB0C1A1A976CD30028378D /* Carica2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Carica2.jpeg; sourceTree = "<group>"; };
 		AF2C85651A04D3F00022A007 /* QuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
 		AF2C85661A04D3F00022A007 /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
 		AF2C85721A04DFC50022A007 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -270,6 +272,7 @@
 				3F88948B1A84DDC400F27183 /* 8fe9cad0e85f19290ef86f4c3f4da56f.jpg */,
 				3F8894891A84DB7A00F27183 /* photo.jpg */,
 				3F8894871A84DADD00F27183 /* jigyo0118.jpg */,
+				3FFB0C1A1A976CD30028378D /* Carica2.jpeg */,
 				3F8894811A84D60F00F27183 /* picture01.jpg */,
 				3F88947F1A84D53700F27183 /* 079909.jpg */,
 				AFE8B8641A050A4D0055414A /* bgImage@2x.png */,
@@ -508,6 +511,7 @@
 				3F6E9F151A8F4D4F002FE0FF /* 28dd4862.jpg in Resources */,
 				3F8894B51A84EF5200F27183 /* Icon-Small@3x.png in Resources */,
 				3F8894B11A84EF5200F27183 /* Icon-76.png in Resources */,
+				3FFB0C1B1A976CD30028378D /* Carica2.jpeg in Resources */,
 				3F8894921A84E44800F27183 /* sen-furuwataribasi.gif in Resources */,
 				3F8894BE1A84EF5200F27183 /* iTunesArtwork@2x in Resources */,
 				3F8894BA1A84EF5200F27183 /* Icon-Small-50@2x.png in Resources */,

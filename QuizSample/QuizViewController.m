@@ -58,6 +58,7 @@
 
 - (NSMutableArray *)shuffleQuiz:(NSMutableArray *)qArray
 {
+    /*
     int numberOfQuiz = (int)[qArray count];
     
     for (int i = numberOfQuiz - 1; i > 0; i--) {
@@ -66,7 +67,7 @@
     }
     
     NSLog(@"問題一覧 %@", qArray);
-    
+    */
     return qArray;
 }
 
@@ -141,7 +142,7 @@
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"d0011701_623761.jpg"], @"男性が燃やしているのは何？", @"金", @"爪", @"国債", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"Cruikshank_-_Snuffing_out_Boney.png"], @"この風刺画の題名は？", @"イギリスの侵略", @"墓に行け！", @"題名無し", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"kal_unified_europe_4_thumb.gif"], @"これは何について描かれた絵？", @"ベルサイユ条約", @"日米通商条約", @"EU憲法条約", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Carica2.jpeg"], @"これは何処についての絵？", @"フランス", @"イタリア", @"マドリード", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Carica2.jpeg"], @"これは何処についての絵？", @"フランス", @"イタリア", @"ポルトガル", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"picture01.jpg"], @"この絵は「草を編みて薦となす、雑皮にて表を偽り、縁るに文皮を以てす。」と書かれていた絵であるが何についてのものか？", @"畳", @"桑", @"茶", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"picture02.jpg"], @"これは今昔物語に載っていた絵だが何の絵か？", @"藺笠", @"藁麦", @"脱穀", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"picture04.jpg"], @"この絵は井草を加工している図だが、どこで行われている？", @"静岡", @"岡山", @"広島", nil]];
