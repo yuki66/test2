@@ -162,8 +162,9 @@
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Martin_Luther_by_Lucas_Cranach_der_Ältere.jpg"], @"この人物が深く関わっている出来事は？", @"宗教改革" @"ルネサンス", @"フランス革命", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"EXP=1423310113.gif"], @"これは何を作っているときの図か？", @"城", @"墓", @"町", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"sen-furuwataribasi.gif"], @"これは何時代の絵か？", @"鎌倉時代", @"江戸時代", @"明治時代", nil]];
-   
-    return quizArray;
+    [quizArray addObject:[NSArray arrayWithObjects:@"1",[UIImage imageNamed:@"20090624_427906.jpg"], @"これは誰が書いた絵か？", @"月岡芳年", @"豊原国周", @"小林清親", nil]];
+        return quizArray;
+     
 
 }
 - (void)setQuestions

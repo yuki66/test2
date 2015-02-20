@@ -74,6 +74,8 @@
 		3F8894C31A84F2C300F27183 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8894C01A84F2C300F27183 /* Default-568h@2x.png */; };
 		3F8894C41A84F2C300F27183 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8894C11A84F2C300F27183 /* Default-667h@2x.png */; };
 		3F8894C51A84F2C300F27183 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F8894C21A84F2C300F27183 /* Default-736h@3x.png */; };
+		3FFB0C171A9762CD0028378D /* 20090624_427905.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB0C161A9762CD0028378D /* 20090624_427905.jpg */; };
+		3FFB0C191A9764DE0028378D /* 20090624_427906.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB0C181A9764DE0028378D /* 20090624_427906.jpg */; };
 		AF2C85671A04D3F00022A007 /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2C85661A04D3F00022A007 /* QuizViewController.m */; };
 		AF2C85731A04DFC50022A007 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF2C85721A04DFC50022A007 /* AVFoundation.framework */; };
 		AF36D1B61A00B64900467C7F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AF36D1B51A00B64900467C7F /* main.m */; };
@@ -167,6 +169,8 @@
 		3F8894C01A84F2C300F27183 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		3F8894C11A84F2C300F27183 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
 		3F8894C21A84F2C300F27183 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
+		3FFB0C161A9762CD0028378D /* 20090624_427905.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20090624_427905.jpg; sourceTree = "<group>"; };
+		3FFB0C181A9764DE0028378D /* 20090624_427906.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20090624_427906.jpg; sourceTree = "<group>"; };
 		AF2C85651A04D3F00022A007 /* QuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuizViewController.h; sourceTree = "<group>"; };
 		AF2C85661A04D3F00022A007 /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
 		AF2C85721A04DFC50022A007 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -261,6 +265,7 @@
 				3F8894951A84EF5200F27183 /* ios */,
 				3F8894911A84E44800F27183 /* sen-furuwataribasi.gif */,
 				3F88948F1A84E3A100F27183 /* EXP=1423310113.gif */,
+				3FFB0C161A9762CD0028378D /* 20090624_427905.jpg */,
 				3F88948D1A84E16800F27183 /* E38398E3829AE383B3E794BBE9AEAEE6988EE9BE8DE9A6AC.jpg */,
 				3F88948B1A84DDC400F27183 /* 8fe9cad0e85f19290ef86f4c3f4da56f.jpg */,
 				3F8894891A84DB7A00F27183 /* photo.jpg */,
@@ -300,6 +305,7 @@
 				3F4D38C71A7B866C001B2581 /* sahm_zu06.jpg */,
 				3F6E9F281A8F712A002FE0FF /* 119.228.68.216.gif */,
 				3F4D38C81A7B866C001B2581 /* td_0803073.jpg */,
+				3FFB0C181A9764DE0028378D /* 20090624_427906.jpg */,
 				3F4D38C91A7B866C001B2581 /* yjimage-3.jpeg */,
 				3F4D38CA1A7B866C001B2581 /* yjimage-4.jpeg */,
 				3F4D38CB1A7B866C001B2581 /* Zuhan.jpeg */,
@@ -506,6 +512,7 @@
 				3F8894BE1A84EF5200F27183 /* iTunesArtwork@2x in Resources */,
 				3F8894BA1A84EF5200F27183 /* Icon-Small-50@2x.png in Resources */,
 				3F8894BC1A84EF5200F27183 /* Icon@2x.png in Resources */,
+				3FFB0C171A9762CD0028378D /* 20090624_427905.jpg in Resources */,
 				3F88948E1A84E16800F27183 /* E38398E3829AE383B3E794BBE9AEAEE6988EE9BE8DE9A6AC.jpg in Resources */,
 				3F8894B21A84EF5200F27183 /* Icon-76@2x.png in Resources */,
 				3F4D38DE1A7B866C001B2581 /* Zuhan.jpeg in Resources */,
@@ -531,6 +538,7 @@
 				3F8894C51A84F2C300F27183 /* Default-736h@3x.png in Resources */,
 				3F8894861A84D62300F27183 /* picture04.jpg in Resources */,
 				3F8894C31A84F2C300F27183 /* Default-568h@2x.png in Resources */,
+				3FFB0C191A9764DE0028378D /* 20090624_427906.jpg in Resources */,
 				3F6E9F2B1A8F7344002FE0FF /* 119.228.68.216-2.gif in Resources */,
 				3F4D38CC1A7B866C001B2581 /* 1324bf7e.jpg in Resources */,
 				3F8894B81A84EF5200F27183 /* Icon-72@2x.png in Resources */,
