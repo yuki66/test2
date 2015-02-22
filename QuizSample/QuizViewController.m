@@ -148,25 +148,23 @@
     [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"picture04.jpg"], @"この絵は井草を加工している図だが、どこで行われている？", @"静岡", @"岡山", @"広島", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"jigyo0118.jpg"], @"この絵は何処についてのものか？", @"越後", @"伊丹", @"長州", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"photo.jpg"], @"左上にいる男は立ち売りの女から何を買おうとしている？", @"布", @"米", @"薬", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"8fe9cad0e85f19290ef86f4c3f4da56f"], @"これは何についての絵か？", @"徒然草", @"源氏物語", @"平家物語", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"8fe9cad0e85f19290ef86f4c3f4da56f.jpg"], @"これは何についての絵か？", @"徒然草", @"源氏物語", @"平家物語", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"E38398E3829AE383B3E794BBE9AEAEE6988EE9BE8DE9A6AC.jpg"], @"この人物の出身は？", @"薩摩", @"長州", @"土佐", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"otsueten_10-04_4.jpg"], @"この図の右の人物は何をしているか？", @"落書きを,している" @"耳を取っている", @"髪を剃っている", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"E99D92E38184E5BA87E381AEE887AAE794BBE5838F-thumbnail2.jpg"], @"この人物は誰か？", @"シャルダン" @"モランディ", @"マラー", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"28dd4862.jpg"], @"この絵画の作者は？", @"ナポレオン" @"ダヴィッド", @"レオナルド", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"9fdbaae0-s.jpg"], @"この絵画の作者は？", @"セザンヌ" @"ゴッホ", @"モネ", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"top_p.jpg"], @"この絵画の作者は？", @"ルノワール" @"セザンヌ", @"モネ", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"w0000006.jpg"], @"これは日本画の富士暮雪であるが作者は誰か？", @"師宜" @"康成", @"広重", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Satomi_and_the_Eight_“Dogs”_WDL2937.pdf.jpg"], @"この本の作者は？", @"滝沢馬琴" @"歌川國芳", @"十返舎一九", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"01_s.jpg"], @"この絵の人物は何宗か？", @"浄土宗" @"浄土真宗", @"真言宗", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"04.jpg"], @"これはいつの絵か？", @"享禄6年" @"嘉永6年", @"大化6年", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"03.jpg"], @"これはいつ作成されたものであるか？", @"平安" @"江戸", @"明治", nil]];
-    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Martin_Luther_by_Lucas_Cranach_der_Ältere.jpg"], @"この人物が深く関わっている出来事は？", @"宗教改革" @"ルネサンス", @"フランス革命", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"otsueten_10-04_4.jpg"], @"この図の右の人物は何をしているか？", @"落書きをしている", @"耳を取っている", @"髪を剃っている", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"E99D92E38184E5BA87E381AEE887AAE794BBE5838F-thumbnail2.jpg"], @"この人物は誰か？" , @"シャルダン", @"モランディ", @"マラー",nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"28dd4862.jpg"], @"この絵画の作者は？", @"ナポレオン", @"ダヴィット", @"レオナルド", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"9fdbaae0-s.jpg"], @"この絵画の作者は？", @"セザンヌ", @"ゴッホ", @"モネ", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"top_p.jpg"], @"この絵画の作者は？", @"ルノワール", @"セザンヌ", @"モネ", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"w0000006.jpg"], @"これは日本画の富士暮雪であるが作者は誰か？", @"師宜", @"康成", @"広重", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Satomi_and_the_Eight_“Dogs”_WDL2937.pdf.jpg"], @"この本の作者は？", @"滝沢馬琴", @"歌川國芳", @"十返舎一九", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"01_s.jpg"], @"この絵の人物は何宗か？", @"浄土宗", @"浄土真宗", @"真言宗", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"04.jpg"], @"これはいつの絵か？", @"享禄6年", @"嘉永6年", @"大化6年", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"3", [UIImage imageNamed:@"03.jpg"], @"これはいつ作成されたものであるか？", @"平安", @"江戸", @"明治", nil]];
+    [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"Martin_Luther_by_Lucas_Cranach_der_Ältere.jpg"], @"この人物が深く関わっている出来事は？", @"宗教改革", @"ルネサンス", @"フランス革命", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1", [UIImage imageNamed:@"EXP=1423310113.gif"], @"これは何を作っているときの図か？", @"城", @"墓", @"町", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"2", [UIImage imageNamed:@"sen-furuwataribasi.gif"], @"これは何時代の絵か？", @"鎌倉時代", @"江戸時代", @"明治時代", nil]];
     [quizArray addObject:[NSArray arrayWithObjects:@"1",[UIImage imageNamed:@"20090624_427906.jpg"], @"これは誰が書いた絵か？", @"月岡芳年", @"豊原国周", @"小林清親", nil]];
         return quizArray;
-     
-
 }
 - (void)setQuestions
 {
