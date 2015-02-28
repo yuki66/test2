@@ -58,7 +58,6 @@
 
 - (NSMutableArray *)shuffleQuiz:(NSMutableArray *)qArray
 {
-    /*
     int numberOfQuiz = (int)[qArray count];
     
     for (int i = numberOfQuiz - 1; i > 0; i--) {
@@ -67,7 +66,7 @@
     }
     
     NSLog(@"問題一覧 %@", qArray);
-    */
+    
     return qArray;
 }
 
