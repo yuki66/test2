@@ -167,6 +167,7 @@
     imageNamed:@"2006-06-04.jpg"], @"この人物の死因は？", @"階段から落ちた", @"岩に間違えられた", @"鍋につまづいた", nil]];
         return quizArray;
 }
+
 - (void)setQuestions
 {
     if (currentQuiz < quizArray.count) {
